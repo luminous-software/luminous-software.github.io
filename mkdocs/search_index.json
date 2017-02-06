@@ -1,0 +1,264 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Background\n#\n\n\nAt \nLuminous Software Solutions\n we write custom \ndesktop applications\n and \nweb applications\n for clients,\nas well as \nproprietary\n and \nopen-source\n \nVisual Studio extensions\n for the Visual Studio community.\n\n\nLuminous Software Solutions\n was founded in \n2011\n by Yann Duran. In the same year he co-authored a book on\n\nLightSwitch 2011 Development\n, as well as creating and releasing some of the first\ncommunity-based LightSwitch extensions.\n\n\nContact\n#",
+            "title": "Home"
+        },
+        {
+            "location": "/#background",
+            "text": "At  Luminous Software Solutions  we write custom  desktop applications  and  web applications  for clients,\nas well as  proprietary  and  open-source   Visual Studio extensions  for the Visual Studio community.  Luminous Software Solutions  was founded in  2011  by Yann Duran. In the same year he co-authored a book on LightSwitch 2011 Development , as well as creating and releasing some of the first\ncommunity-based LightSwitch extensions.",
+            "title": "Background"
+        },
+        {
+            "location": "/#contact",
+            "text": "",
+            "title": "Contact"
+        },
+        {
+            "location": "/extensions-vs/",
+            "text": "Time Savers\n#\n\n\n1076+ installs | 5-star rating | VS 2015\n#\n\n\nA growing collection of small time-savers to enhance day-to-day productivity for developing with Visual Studio.\n\n\n\n\n\nReviewed by\n\nGreg Duncan\n in\n\nTime Savers, the Definition of a VS Extension\n\n\nMentioned by\n\nDmitry Lyalin\n in his\n\nTop Ten Most Popular Developer Links for the Week of January 2, 2017\n\n\n\n\n\n\nInstallation\n#\n\n\nVia\n#\n\n\nVia\n#\n\n\nFeatures\n#\n\n\n\n\nActivity Log\n\n\nCancel Build\n\n\nClose Solution\n\n\nDiagnostic Log\n\n\nEdit Project\n\n\nEdit Solution\n\n\nExtensions and Updates\n\n\nInsert Guid(s)\n\n\nKeyboard Options\n\n\nPath Variables\n\n\nRebuild Project\n\n\nRebuild Solution\n\n\nReopen Start Page\n\n\nRestart Visual Studio\n\n\nRestart Visual Studio as Administrator \n\n\n\n\nUsage\n#\n\n\nVia Time Savers Toolbar\n#\n\n\n\n\nVia Time Savers  Menu\n#\n\n\n\n\nDownload it \nhere\n, or from the \nVisual Studio Marketplace\n.\n\n\n\n\nRestart Visual Studio\n#\n\n\n228+ installs | no rating\n#\n\n\nThe simplest way of restarting Visual Studio on demand (normal and elevated).\n\n\nFeatures\n#\n\n\n\n\nRestart Visual Studio\n\n\nRestart Visual Studio As Admin\n\n\n\n\nHow To Use\n#\n\n\nVia Time Savers Toolbar\n#\n\n\n\n\nVia Time Saver Context Menu\n#\n\n\n\n\nRestart Visual Studio As Admin\n#\n\n\nHow To Use\n#\n\n\nVia Time Savers Toolbar\n#\n\n\n\n\nVia Time Saver Context Menu\n#\n\n\n\n\nDownload it \nhere\n, or from the \nVisual Studio Marketplace\n.\n\n\n\n\nInsert Guid\n#\n\n\n301+ installs | (no rating)\n#\n\n\nThe simplest and fastest way of inserting a new GUID directly into your code, without leaving the code editor.\n\n\nFeatures\n#\n\n\n\n\nInsert Guid\n\n\nInsert Multuple Guids\n\n\n\n\nHow To Use\n#\n\n\nInsert Guid Via Context Menu\n#\n\n\nInsert Single Guid\n#\n\n\n\n\nInsert Multiple Guids\n#\n\n\n\n\nDownload it [here][InsertGuid], or from the \nVisual Studio Marketplace\n.\n\n\n\n\nLuminous Essentials For VS\n#\n\n\n940+ installs | (no rating)\n#\n\n\nA collection of essential productivity enhancements for working in Visual Studio\n\n\nPlease Note:\n#\n\n\nThis extension has been deprecated in favor of \nTime Savers\n\n(a new open-source extension with the same functionality)\n\n\nView it \nhere",
+            "title": "Visual Studio Extensions"
+        },
+        {
+            "location": "/extensions-vs/#time-savers",
+            "text": "",
+            "title": "Time Savers"
+        },
+        {
+            "location": "/extensions-vs/#1076-installs-5-star-rating-vs-2015",
+            "text": "A growing collection of small time-savers to enhance day-to-day productivity for developing with Visual Studio.   Reviewed by Greg Duncan  in Time Savers, the Definition of a VS Extension  Mentioned by Dmitry Lyalin  in his Top Ten Most Popular Developer Links for the Week of January 2, 2017",
+            "title": "1076+ installs | 5-star rating | VS 2015"
+        },
+        {
+            "location": "/extensions-vs/#installation",
+            "text": "",
+            "title": "Installation"
+        },
+        {
+            "location": "/extensions-vs/#via",
+            "text": "",
+            "title": "Via"
+        },
+        {
+            "location": "/extensions-vs/#via_1",
+            "text": "",
+            "title": "Via"
+        },
+        {
+            "location": "/extensions-vs/#features",
+            "text": "Activity Log  Cancel Build  Close Solution  Diagnostic Log  Edit Project  Edit Solution  Extensions and Updates  Insert Guid(s)  Keyboard Options  Path Variables  Rebuild Project  Rebuild Solution  Reopen Start Page  Restart Visual Studio  Restart Visual Studio as Administrator",
+            "title": "Features"
+        },
+        {
+            "location": "/extensions-vs/#usage",
+            "text": "",
+            "title": "Usage"
+        },
+        {
+            "location": "/extensions-vs/#via-time-savers-toolbar",
+            "text": "",
+            "title": "Via Time Savers Toolbar"
+        },
+        {
+            "location": "/extensions-vs/#via-time-savers-menu",
+            "text": "Download it  here , or from the  Visual Studio Marketplace .",
+            "title": "Via Time Savers  Menu"
+        },
+        {
+            "location": "/extensions-vs/#restart-visual-studio",
+            "text": "",
+            "title": "Restart Visual Studio"
+        },
+        {
+            "location": "/extensions-vs/#228-installs-no-rating",
+            "text": "The simplest way of restarting Visual Studio on demand (normal and elevated).",
+            "title": "228+ installs | no rating"
+        },
+        {
+            "location": "/extensions-vs/#features_1",
+            "text": "Restart Visual Studio  Restart Visual Studio As Admin",
+            "title": "Features"
+        },
+        {
+            "location": "/extensions-vs/#how-to-use",
+            "text": "",
+            "title": "How To Use"
+        },
+        {
+            "location": "/extensions-vs/#via-time-savers-toolbar_1",
+            "text": "",
+            "title": "Via Time Savers Toolbar"
+        },
+        {
+            "location": "/extensions-vs/#via-time-saver-context-menu",
+            "text": "",
+            "title": "Via Time Saver Context Menu"
+        },
+        {
+            "location": "/extensions-vs/#restart-visual-studio-as-admin",
+            "text": "",
+            "title": "Restart Visual Studio As Admin"
+        },
+        {
+            "location": "/extensions-vs/#how-to-use_1",
+            "text": "",
+            "title": "How To Use"
+        },
+        {
+            "location": "/extensions-vs/#via-time-savers-toolbar_2",
+            "text": "",
+            "title": "Via Time Savers Toolbar"
+        },
+        {
+            "location": "/extensions-vs/#via-time-saver-context-menu_1",
+            "text": "Download it  here , or from the  Visual Studio Marketplace .",
+            "title": "Via Time Saver Context Menu"
+        },
+        {
+            "location": "/extensions-vs/#insert-guid",
+            "text": "",
+            "title": "Insert Guid"
+        },
+        {
+            "location": "/extensions-vs/#301-installs-no-rating",
+            "text": "The simplest and fastest way of inserting a new GUID directly into your code, without leaving the code editor.",
+            "title": "301+ installs | (no rating)"
+        },
+        {
+            "location": "/extensions-vs/#features_2",
+            "text": "Insert Guid  Insert Multuple Guids",
+            "title": "Features"
+        },
+        {
+            "location": "/extensions-vs/#how-to-use_2",
+            "text": "",
+            "title": "How To Use"
+        },
+        {
+            "location": "/extensions-vs/#insert-guid-via-context-menu",
+            "text": "",
+            "title": "Insert Guid Via Context Menu"
+        },
+        {
+            "location": "/extensions-vs/#insert-single-guid",
+            "text": "",
+            "title": "Insert Single Guid"
+        },
+        {
+            "location": "/extensions-vs/#insert-multiple-guids",
+            "text": "Download it [here][InsertGuid], or from the  Visual Studio Marketplace .",
+            "title": "Insert Multiple Guids"
+        },
+        {
+            "location": "/extensions-vs/#luminous-essentials-for-vs",
+            "text": "",
+            "title": "Luminous Essentials For VS"
+        },
+        {
+            "location": "/extensions-vs/#940-installs-no-rating",
+            "text": "A collection of essential productivity enhancements for working in Visual Studio",
+            "title": "940+ installs | (no rating)"
+        },
+        {
+            "location": "/extensions-vs/#please-note",
+            "text": "This extension has been deprecated in favor of  Time Savers \n(a new open-source extension with the same functionality)  View it  here",
+            "title": "Please Note:"
+        },
+        {
+            "location": "/lightswitch/",
+            "text": "Yann's Book\n#\n\n\nFrom the back cover:\n\n\n\n\n\n\nMicrosoft Visual Studio LightSwitch 2011\n is a rapid application deployment tool that lets power users and administrators build data-centric business applications for the desktop, cloud, and web in just a few clicks, with no code required.\n\n\nBut more advanced developers and business users will hunger for more:\n\n\n\n\nhow do you design complex screens?\n\n\nhow do you query data using LINQ and other syntax structures?\n\n\nhow do you secure your application?\n\n\n\n\nPro Visual Studio LightSwitch 2011 Development\n answers these questions and more as authors \nTim Leung\n and \nYann Duran\n cover this breakthrough product and its operations and structure under the covers. Both Yann and Tim were awarded Microsoft 2011 Community Contributor Awards for their LightSwitch expertise and support.\n\n\nFor serious developers building, enhancing and deploying advanced business applications using LightSwitch, \nPro Visual Studio LightSwitch 2011 Development\n is the guide for going beyond the \"click-and-you're-done\" interface, while still maintaining the elegance and convenience of rapid application development.\n\n\n\n\n\n\nYann's Extensions\n#\n\n\nLuminous Themes\n#\n\n\n7.6K+ installs | 5-star rating | VS 2010 only\n#\n\n\nTwo LightSwitch 2011 themes. \nLuminous Themes\n was the first community-based theme extension.\n\n\n\n\nClick here\n to download \nLuminous Themes\n, or download it from the \nVisual Studio Marketplace\n.\n\n\n\n\nLuminous Controls\n#\n\n\n9.9K+ installs | 5-star rating | VS 2010 only\n#\n\n\nA small collection of LightSwitch 2011 custom controls, comprising:\n\n\n\n\na customisable \nTextBlock\n control\n\n\na customisable \nGroupLayout\n control\n\n\n\n\nWithout Luminous Controls\n#\n\n\n\n\nWith Luminous Controls (simple)\n#\n\n\n\n\n(Images courtesy of Garth Henderson)\n#\n\n\nWith Luminous Controls (advanced)\n#\n\n\n\n\n(Images courtesy of PowerBala)\n#\n\n\nClick here\n to download \nLuminous Controls\n, or downdload it from the \nVisual Studio Marketplace\n.\n\n\n\n\nLuminous LightSwitch Types\n#\n\n\n6.2K+ installs | 4.5-star rating | VS 2010 only\n#\n\n\nA small collection of custom LightSwitch business types (\nPercent\n type, \nISBN\n type, \nLink\n type, \nPassword\n type).\n\n\n\n\na Password type (that hides the characters being typed, as well as validating several optional conditions)\n\n\na Link type (that allows you to enter/edit a URL, as well as launch a browser with it)\n\n\na Percent type (that stores the value as a decimal, but displays it as a percentage)\n\n\nan ISBN type (that validates both ISBN-10 & ISBN-13 numbers)\n\n\n\n\nClick here\n to download \nLuminous LightSwitch Types\n, or download it from the \nVisual Studio Marketplace\n.\n\n\n\n\nLuminous LightSwitch Commands\n#\n\n\n6.8K+ installs | 5-star rating | VS 2010 only\n#\n\n\nSmall collection of global LightSwitch commands.\n\n\nWithout Luminous LightSwitch Commands:\n#\n\n\n\n\nA Desktop App With Luminous LightSwitch Commands:\n#\n\n\n\n\nA Web App With Luminous LightSwitch Commands:\n#\n\n\n\n\nClick here\n to download \nLuminous LightSwitch Commands\n, or download it from the \nVisual Studio Marketplace",
+            "title": "LightSwitch Development"
+        },
+        {
+            "location": "/lightswitch/#yanns-book",
+            "text": "From the back cover:    Microsoft Visual Studio LightSwitch 2011  is a rapid application deployment tool that lets power users and administrators build data-centric business applications for the desktop, cloud, and web in just a few clicks, with no code required.  But more advanced developers and business users will hunger for more:   how do you design complex screens?  how do you query data using LINQ and other syntax structures?  how do you secure your application?   Pro Visual Studio LightSwitch 2011 Development  answers these questions and more as authors  Tim Leung  and  Yann Duran  cover this breakthrough product and its operations and structure under the covers. Both Yann and Tim were awarded Microsoft 2011 Community Contributor Awards for their LightSwitch expertise and support.  For serious developers building, enhancing and deploying advanced business applications using LightSwitch,  Pro Visual Studio LightSwitch 2011 Development  is the guide for going beyond the \"click-and-you're-done\" interface, while still maintaining the elegance and convenience of rapid application development.",
+            "title": "Yann's Book"
+        },
+        {
+            "location": "/lightswitch/#yanns-extensions",
+            "text": "",
+            "title": "Yann's Extensions"
+        },
+        {
+            "location": "/lightswitch/#luminous-themes",
+            "text": "",
+            "title": "Luminous Themes"
+        },
+        {
+            "location": "/lightswitch/#76k-installs-5-star-rating-vs-2010-only",
+            "text": "Two LightSwitch 2011 themes.  Luminous Themes  was the first community-based theme extension.   Click here  to download  Luminous Themes , or download it from the  Visual Studio Marketplace .",
+            "title": "7.6K+ installs | 5-star rating | VS 2010 only"
+        },
+        {
+            "location": "/lightswitch/#luminous-controls",
+            "text": "",
+            "title": "Luminous Controls"
+        },
+        {
+            "location": "/lightswitch/#99k-installs-5-star-rating-vs-2010-only",
+            "text": "A small collection of LightSwitch 2011 custom controls, comprising:   a customisable  TextBlock  control  a customisable  GroupLayout  control",
+            "title": "9.9K+ installs | 5-star rating | VS 2010 only"
+        },
+        {
+            "location": "/lightswitch/#without-luminous-controls",
+            "text": "",
+            "title": "Without Luminous Controls"
+        },
+        {
+            "location": "/lightswitch/#with-luminous-controls-simple",
+            "text": "",
+            "title": "With Luminous Controls (simple)"
+        },
+        {
+            "location": "/lightswitch/#images-courtesy-of-garth-henderson",
+            "text": "",
+            "title": "(Images courtesy of Garth Henderson)"
+        },
+        {
+            "location": "/lightswitch/#with-luminous-controls-advanced",
+            "text": "",
+            "title": "With Luminous Controls (advanced)"
+        },
+        {
+            "location": "/lightswitch/#images-courtesy-of-powerbala",
+            "text": "Click here  to download  Luminous Controls , or downdload it from the  Visual Studio Marketplace .",
+            "title": "(Images courtesy of PowerBala)"
+        },
+        {
+            "location": "/lightswitch/#luminous-lightswitch-types",
+            "text": "",
+            "title": "Luminous LightSwitch Types"
+        },
+        {
+            "location": "/lightswitch/#62k-installs-45-star-rating-vs-2010-only",
+            "text": "A small collection of custom LightSwitch business types ( Percent  type,  ISBN  type,  Link  type,  Password  type).   a Password type (that hides the characters being typed, as well as validating several optional conditions)  a Link type (that allows you to enter/edit a URL, as well as launch a browser with it)  a Percent type (that stores the value as a decimal, but displays it as a percentage)  an ISBN type (that validates both ISBN-10 & ISBN-13 numbers)   Click here  to download  Luminous LightSwitch Types , or download it from the  Visual Studio Marketplace .",
+            "title": "6.2K+ installs | 4.5-star rating | VS 2010 only"
+        },
+        {
+            "location": "/lightswitch/#luminous-lightswitch-commands",
+            "text": "",
+            "title": "Luminous LightSwitch Commands"
+        },
+        {
+            "location": "/lightswitch/#68k-installs-5-star-rating-vs-2010-only",
+            "text": "Small collection of global LightSwitch commands.",
+            "title": "6.8K+ installs | 5-star rating | VS 2010 only"
+        },
+        {
+            "location": "/lightswitch/#without-luminous-lightswitch-commands",
+            "text": "",
+            "title": "Without Luminous LightSwitch Commands:"
+        },
+        {
+            "location": "/lightswitch/#a-desktop-app-with-luminous-lightswitch-commands",
+            "text": "",
+            "title": "A Desktop App With Luminous LightSwitch Commands:"
+        },
+        {
+            "location": "/lightswitch/#a-web-app-with-luminous-lightswitch-commands",
+            "text": "Click here  to download  Luminous LightSwitch Commands , or download it from the  Visual Studio Marketplace",
+            "title": "A Web App With Luminous LightSwitch Commands:"
+        }
+    ]
+}
