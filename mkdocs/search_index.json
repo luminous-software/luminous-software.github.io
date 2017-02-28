@@ -2,18 +2,98 @@
     "docs": [
         {
             "location": "/",
-            "text": "Background\n#\n\n\nAt \nLuminous Software Solutions\n we write custom \ndesktop applications\n and \nweb applications\n for clients,\nas well as \nproprietary\n and \nopen-source\n \nVisual Studio extensions\n for the Visual Studio community.\n\n\nLuminous Software Solutions\n was founded in \n2011\n by Yann Duran. In the same year he co-authored a book on\n\nLightSwitch 2011 Development\n, as well as creating and releasing some of the first\ncommunity-based LightSwitch extensions.\n\n\nContact\n#",
+            "text": "Background\n#\n\n\nLuminous Software Solutions\n is an independent, privately owned Australian entity, based in Melbourne, Australia.\n\n\nIn 2011, I\n\n\n\n\nfounded \nLuminous Software\n (now \nLuminous Software Solutions\n)\n\n\ncreated the \nLightSwitch Central\n website (which no longer exists)\n\n\nco-authored a book called \nPro Visual Studio LightSwitch 2011 Development\n\n(for more information see \nYann's Book\n )\n\n\ncreated some of the first community-based LightSwitch extensions\n(for more information see \nYann's Extensions\n)\n\n\n\n\nAlthough at that time the extensions weren't open-source, they were released to the community for free.\n\n\nLuminous Software Solutions\n develops:\n\n\n\n\ncustom \ndesktop applications\n for clients\n\n\ncustom \nweb applications\n for clients\n\n\nproprietary\n Visual Studio Extensions for internal use\n\n\nopen-source\n \nVisual Studio extensions\n for the Visual Studio community\n\n\n\n\nYann Duran\n is the Senior Software Developer at \nLuminous Software Solutions\n.\n\n\n\n\nContact Yann\n#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinkedIn:\n\n\nyannduran\n\n\n\n\n\n\nGitHub:\n\n\n@yannduran\n\n\n\n\n\n\nTwitter:\n\n\n@yannduran",
             "title": "Home"
         },
         {
             "location": "/#background",
-            "text": "At  Luminous Software Solutions  we write custom  desktop applications  and  web applications  for clients,\nas well as  proprietary  and  open-source   Visual Studio extensions  for the Visual Studio community.  Luminous Software Solutions  was founded in  2011  by Yann Duran. In the same year he co-authored a book on LightSwitch 2011 Development , as well as creating and releasing some of the first\ncommunity-based LightSwitch extensions.",
+            "text": "Luminous Software Solutions  is an independent, privately owned Australian entity, based in Melbourne, Australia.  In 2011, I   founded  Luminous Software  (now  Luminous Software Solutions )  created the  LightSwitch Central  website (which no longer exists)  co-authored a book called  Pro Visual Studio LightSwitch 2011 Development \n(for more information see  Yann's Book  )  created some of the first community-based LightSwitch extensions\n(for more information see  Yann's Extensions )   Although at that time the extensions weren't open-source, they were released to the community for free.  Luminous Software Solutions  develops:   custom  desktop applications  for clients  custom  web applications  for clients  proprietary  Visual Studio Extensions for internal use  open-source   Visual Studio extensions  for the Visual Studio community   Yann Duran  is the Senior Software Developer at  Luminous Software Solutions .",
             "title": "Background"
         },
         {
-            "location": "/#contact",
+            "location": "/#contact-yann",
+            "text": "LinkedIn:  yannduran    GitHub:  @yannduran    Twitter:  @yannduran",
+            "title": "Contact Yann"
+        },
+        {
+            "location": "/nuget/",
+            "text": "Luminous Code (OSS)\n#\n\n\n\n\n\n\n\n\n\n\nLuminous Code\n is an open-source collection of projects, namespaces, classes, methods, and extention methods,\nthat I wrote to keep the code that I need to write in my various projects as \nDRY\n as possible! \nIt's driven by my own needs as a developer,\nbut I'm more than happy to share it with anyone who might find it useful,\nand to accept suggestions or bug reports.\n\n\nThis is the second (and current) open-source iteration of the original closed-source \nLuminous Framework\n.\n\n\nYou can find the website \nhere\n, and the github repo \nhere\n.\n\n\nLuminous.Code.Core\n#\n\n\nAuthor: \nLuminous Software Solutions\n#\n\n\n\n\nBase classes, objects and extension methods for Luminous Code.\n\n\nLuminous.Code.VisualStudio\n#\n\n\nAuthor: \nLuminous Software Solutions\n#\n\n\n\n\nVisual Studio extensibility classes, objects and extension methods for Luminous Code.\n\n\n\n\nYD Framework (OSS)\n#\n\n\nYD Framework\n is an open-source iteration of the original \nLuminous Framework\n.\nIt was laster superceded by the release of \nLuminous Code\n.\n\n\nYD.Framework.Core\n#\n\n\nAuthor: \nYann Duran\n#\n\n\n\n\nBase classes, objects and extension methods for \nYD Framework\n.\n\n\nYD.Framework.VisualStudio\n#\n\n\nAuthor: \nYann Duran\n#\n\n\n\n\nVisual Studio extensibility classes, objects and extension methods for \nYD Framework\n.\n\n\n\n\nLuminous Framework\n#\n\n\nLuminous Framework\n is the original closed-source code framework.\nIt was later superceded by the release of open-source \nYD Framework\n.\n\n\nLuminous.Framework.Core\n#\n\n\nAuthor: \nYann Duran\n#\n\n\n\n\nBase classes, objects and extension methods for \nLuminous Software Framework\n.\n\n\nLuminous.Framework.VisualStudio\n#\n\n\nAuthor: \nYann Duran\n#\n\n\n\n\nVisual Studio extensibility classes, objects and extension methods for \nLuminous Software Framework\n.",
+            "title": "NuGet Packages"
+        },
+        {
+            "location": "/nuget/#luminous-code-oss",
+            "text": "Luminous Code  is an open-source collection of projects, namespaces, classes, methods, and extention methods,\nthat I wrote to keep the code that I need to write in my various projects as  DRY  as possible! \nIt's driven by my own needs as a developer,\nbut I'm more than happy to share it with anyone who might find it useful,\nand to accept suggestions or bug reports.  This is the second (and current) open-source iteration of the original closed-source  Luminous Framework .  You can find the website  here , and the github repo  here .",
+            "title": "Luminous Code (OSS)"
+        },
+        {
+            "location": "/nuget/#luminouscodecore",
             "text": "",
-            "title": "Contact"
+            "title": "Luminous.Code.Core"
+        },
+        {
+            "location": "/nuget/#author-luminous-software-solutions",
+            "text": "Base classes, objects and extension methods for Luminous Code.",
+            "title": "Author: Luminous Software Solutions"
+        },
+        {
+            "location": "/nuget/#luminouscodevisualstudio",
+            "text": "",
+            "title": "Luminous.Code.VisualStudio"
+        },
+        {
+            "location": "/nuget/#author-luminous-software-solutions_1",
+            "text": "Visual Studio extensibility classes, objects and extension methods for Luminous Code.",
+            "title": "Author: Luminous Software Solutions"
+        },
+        {
+            "location": "/nuget/#yd-framework-oss",
+            "text": "YD Framework  is an open-source iteration of the original  Luminous Framework .\nIt was laster superceded by the release of  Luminous Code .",
+            "title": "YD Framework (OSS)"
+        },
+        {
+            "location": "/nuget/#ydframeworkcore",
+            "text": "",
+            "title": "YD.Framework.Core"
+        },
+        {
+            "location": "/nuget/#author-yann-duran",
+            "text": "Base classes, objects and extension methods for  YD Framework .",
+            "title": "Author: Yann Duran"
+        },
+        {
+            "location": "/nuget/#ydframeworkvisualstudio",
+            "text": "",
+            "title": "YD.Framework.VisualStudio"
+        },
+        {
+            "location": "/nuget/#author-yann-duran_1",
+            "text": "Visual Studio extensibility classes, objects and extension methods for  YD Framework .",
+            "title": "Author: Yann Duran"
+        },
+        {
+            "location": "/nuget/#luminous-framework",
+            "text": "Luminous Framework  is the original closed-source code framework.\nIt was later superceded by the release of open-source  YD Framework .",
+            "title": "Luminous Framework"
+        },
+        {
+            "location": "/nuget/#luminousframeworkcore",
+            "text": "",
+            "title": "Luminous.Framework.Core"
+        },
+        {
+            "location": "/nuget/#author-yann-duran_2",
+            "text": "Base classes, objects and extension methods for  Luminous Software Framework .",
+            "title": "Author: Yann Duran"
+        },
+        {
+            "location": "/nuget/#luminousframeworkvisualstudio",
+            "text": "",
+            "title": "Luminous.Framework.VisualStudio"
+        },
+        {
+            "location": "/nuget/#author-yann-duran_3",
+            "text": "Visual Studio extensibility classes, objects and extension methods for  Luminous Software Framework .",
+            "title": "Author: Yann Duran"
         },
         {
             "location": "/extensions-vs/",

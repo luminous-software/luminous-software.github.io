@@ -3,24 +3,32 @@
 
     
     <url>
-     <loc>https://luminous-software.github.io/</loc>
-     <lastmod>2017-02-06</lastmod>
+     <loc>https://luminous-software.solutions/</loc>
+     <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>https://luminous-software.github.io/extensions-vs/</loc>
-     <lastmod>2017-02-06</lastmod>
+     <loc>https://luminous-software.solutions/nuget/</loc>
+     <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>https://luminous-software.github.io/lightswitch/</loc>
-     <lastmod>2017-02-06</lastmod>
+     <loc>https://luminous-software.solutions/extensions-vs/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://luminous-software.solutions/lightswitch/</loc>
+     <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
