@@ -11,6 +11,14 @@
 
     
     <url>
+     <loc>https://luminous-software.solutions/blog/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>https://luminous-software.solutions/luminous-code/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>

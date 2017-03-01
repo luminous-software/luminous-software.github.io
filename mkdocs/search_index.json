@@ -16,8 +16,13 @@
             "title": "Contact Yann"
         },
         {
+            "location": "/blog/",
+            "text": "Dummy file",
+            "title": "Blog"
+        },
+        {
             "location": "/luminous-code/",
-            "text": "",
+            "text": "Dummy file",
             "title": "Luminous Code"
         },
         {
