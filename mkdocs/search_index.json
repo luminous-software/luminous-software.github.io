@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Background\n#\n\n\nLuminous Software Solutions\n is an independent, privately owned Australian entity, based in Melbourne, Australia.\n\n\nIn 2011, I\n\n\n\n\nfounded \nLuminous Software\n (now \nLuminous Software Solutions\n)\n\n\ncreated the \nLightSwitch Central\n website (which no longer exists)\n\n\nco-authored a book called \nPro Visual Studio LightSwitch 2011 Development\n\n(for more information see \nYann's Book\n )\n\n\ncreated some of the first community-based LightSwitch extensions\n(for more information see \nYann's Extensions\n)\n\n\n\n\nAlthough at that time the extensions weren't open-source, they were released to the community for free.\n\n\nLuminous Software Solutions\n develops:\n\n\n\n\ncustom \ndesktop applications\n for clients\n\n\ncustom \nweb applications\n for clients\n\n\nproprietary\n Visual Studio Extensions for internal use\n\n\nopen-source\n \nVisual Studio extensions\n for the Visual Studio community\n\n\n\n\nYann Duran\n is the Senior Software Developer at \nLuminous Software Solutions\n.\n\n\n\n\nContact Yann\n#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinkedIn:\n\n\nyannduran\n\n\n\n\n\n\nGitHub:\n\n\n@yannduran\n\n\n\n\n\n\nTwitter:\n\n\n@yannduran",
+            "text": "Background\n#\n\n\nLuminous Software Solutions\n is an independent, privately owned Australian entity, based in Melbourne, Australia.\n\n\nIn 2011, I\n\n\n\n\nfounded \nLuminous Software\n (now \nLuminous Software Solutions\n)\n\n\ncreated the \nLightSwitch Central\n website (which no longer exists)\n\n\nco-authored a book called \nPro Visual Studio LightSwitch 2011 Development\n\n(for more information see \nYann's Book\n )\n\n\ncreated some of the first community-based LightSwitch extensions\n(for more information see \nYann's Extensions\n)\n\n\n\n\nAlthough at that time the extensions weren't open-source, they were released to the community for free.\n\n\nLuminous Software Solutions\n develops:\n\n\n\n\ncustom \ndesktop applications\n for clients\n\n\ncustom \nweb applications\n for clients\n\n\nproprietary\n Visual Studio Extensions for internal use\n\n\nopen-source\n \nVisual Studio extensions\n for the Visual Studio community\n\n\n\n\nYann Duran\n holds the position of \nSenior Software Developer\n at \nLuminous Software Solutions\n.\n\n\n\n\nContact Yann\n#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinkedIn:\n\n\nyannduran\n\n\n\n\n\n\nGitHub:\n\n\n@yannduran\n\n\n\n\n\n\nTwitter:\n\n\n@yannduran",
             "title": "Home"
         },
         {
             "location": "/#background",
-            "text": "Luminous Software Solutions  is an independent, privately owned Australian entity, based in Melbourne, Australia.  In 2011, I   founded  Luminous Software  (now  Luminous Software Solutions )  created the  LightSwitch Central  website (which no longer exists)  co-authored a book called  Pro Visual Studio LightSwitch 2011 Development \n(for more information see  Yann's Book  )  created some of the first community-based LightSwitch extensions\n(for more information see  Yann's Extensions )   Although at that time the extensions weren't open-source, they were released to the community for free.  Luminous Software Solutions  develops:   custom  desktop applications  for clients  custom  web applications  for clients  proprietary  Visual Studio Extensions for internal use  open-source   Visual Studio extensions  for the Visual Studio community   Yann Duran  is the Senior Software Developer at  Luminous Software Solutions .",
+            "text": "Luminous Software Solutions  is an independent, privately owned Australian entity, based in Melbourne, Australia.  In 2011, I   founded  Luminous Software  (now  Luminous Software Solutions )  created the  LightSwitch Central  website (which no longer exists)  co-authored a book called  Pro Visual Studio LightSwitch 2011 Development \n(for more information see  Yann's Book  )  created some of the first community-based LightSwitch extensions\n(for more information see  Yann's Extensions )   Although at that time the extensions weren't open-source, they were released to the community for free.  Luminous Software Solutions  develops:   custom  desktop applications  for clients  custom  web applications  for clients  proprietary  Visual Studio Extensions for internal use  open-source   Visual Studio extensions  for the Visual Studio community   Yann Duran  holds the position of  Senior Software Developer  at  Luminous Software Solutions .",
             "title": "Background"
         },
         {
             "location": "/#contact-yann",
             "text": "LinkedIn:  yannduran    GitHub:  @yannduran    Twitter:  @yannduran",
             "title": "Contact Yann"
+        },
+        {
+            "location": "/luminous-code/",
+            "text": "",
+            "title": "Luminous Code"
         },
         {
             "location": "/nuget/",
